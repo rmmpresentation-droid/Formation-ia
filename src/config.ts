@@ -6,7 +6,7 @@
 export const EVENT_DATE = new Date(2026, 10, 2, 21, 0, 0);
 
 export const EVENT_DATE_LABEL = "Vendredi 2 Novembre";
-export const EVENT_TIME_LABEL = "21h00 (heure de Paris)";
+export const EVENT_TIME_LABEL = "21h00";
 
 // Replace with the real Google Meet link before going live.
 export const GOOGLE_MEET_LINK = "https://meet.google.com/xxx-xxxx-xxx";
