@@ -3,7 +3,7 @@
 
 // Date & time of the training (local time of the attendee's browser).
 // Format: new Date(year, monthIndex(0-11), day, hour, minute)
-export const EVENT_DATE = new Date(2026, 10, 2, 21, 0, 0);
+export const EVENT_DATE = new Date(2026, 10, 02, 21, 0, 0);
 
 export const EVENT_DATE_LABEL = "Vendredi 2 Novembre";
 export const EVENT_TIME_LABEL = "21h00";
